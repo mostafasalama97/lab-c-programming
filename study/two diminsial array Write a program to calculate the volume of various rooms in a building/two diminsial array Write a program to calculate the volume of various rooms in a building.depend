@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668251790 source:f:\lab c programming\study\two diminsial array write a program to calculate the volume of various rooms in a building\main.c
+	<stdlib.h>
+	<stdio.h>
+

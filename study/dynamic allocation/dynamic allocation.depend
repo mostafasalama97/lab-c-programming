@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1668264448 source:f:\lab c programming\study\dynamic allocation\main.c
+	<stdio.h>
+	<stdlib.h>
+
