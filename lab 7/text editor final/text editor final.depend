@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1667852056 source:f:\lab c programming\text editor final\7nksha.c
+
+1667852067 source:f:\lab c programming\text editor final\function.c
+
+1667907627 source:f:\lab c programming\text editor final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

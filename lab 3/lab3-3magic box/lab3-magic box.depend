@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667454112 source:f:\lab c programming\lab 3\lab3-magic box\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
