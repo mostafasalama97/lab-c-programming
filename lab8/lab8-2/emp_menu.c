@@ -3,8 +3,9 @@
 #include <windows.h>
 typedef struct emp{
     int id;
-    int age;
     char name[10];
+    int age;
+
 }emp;
 char menuu[3][17]={"enter employees","diplay employees","finish"};
 void SetColor(int ForgC){
