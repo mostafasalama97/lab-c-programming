@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1668280651 source:f:\lab c programming\lab8\lab8-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"emp_menu.h"
+
+1668280651 f:\lab c programming\lab8\lab8-2\emp_menu.h
+
